@@ -1,5 +1,7 @@
 # vue-class
 
+## Vue2, Class based, Typescript, PWA, Router, Store and SCSS support
+
 ## Project setup
 ```
 yarn install
