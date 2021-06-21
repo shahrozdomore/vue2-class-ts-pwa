@@ -1,6 +1,6 @@
 # vue-class
 
-## Vue2, Class based, Typescript, PWA, Router, Store and SCSS support
+## Vue2, Class based, Typescript, PWA, Router, Store, TailwindCSS and SCSS support
 
 ## Project setup
 ```
